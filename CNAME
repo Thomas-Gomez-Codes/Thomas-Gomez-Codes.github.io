@@ -1,1 +1,5 @@
-blog.thomasgomezcodes.com
+<VirtualHost *:80>
+  ServerName https://thomasgomez011.github.io/thomas_gomez.github.io/
+  Redirect permanent / http://blog.thomasgomezcodes.com
+/
+</VirtualHost>
