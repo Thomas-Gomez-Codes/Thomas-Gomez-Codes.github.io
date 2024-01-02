@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+theme: jekyll-theme-minimal
 title: Thomas Gomez's Portfolio
 description: Boomark to see when I post new items to my portfolio
-bundle install
+
